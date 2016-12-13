@@ -3,6 +3,9 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: ztest
-  host: ztest1
+  name: theNEST
+  host: theNEST
   disk_quota: 1024M
+  services:
+  - ClearDB
+  - storage

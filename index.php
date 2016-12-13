@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ZZZZ</title>
+	<title>The Nest Intake form</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
 </head>
@@ -12,7 +12,7 @@
 				<img class = 'newappIcon' src='images/newapp-icon.png'>
 			</td>
 			<td>
-				<h1 id = "message"><?php echo "Hello Z!"; ?></h1>
+				<h1 id = "message"><?php echo "Intake Form"; ?></h1>
 				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>.
 			</td>
 		</tr>
